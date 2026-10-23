@@ -1,7 +1,8 @@
-To explain the project in detail you can read the pdf.
-The inpire files are the main programm and work together, the inperet are independant progmams that show the recardings.
-The basis of this project was the inpire programm from ΕΛΙΔΕΚ.
-It can be used as a basis for feutere projects that will incoporate a AI model in it.
-If you are intrested in it contct me.
+To explain the project in detail, you can read the PDF.
+The INSPiRE files are the main program and work together, while the inspiret files are independent programs that show the recordings.
+The basis of this project was the INSPiRE program from ΕΛΙΔΕΚ.
+It can be used as a basis for future projects that will incorporate an AI model.
+If you are interested in it, contact me.
+
 Copyright (c) 2026 Dentsas Panagiotis
 All Rights Reserved. This code may not be used, copied, modified, or distributed without explicit permission.
