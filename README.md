@@ -8,5 +8,5 @@ If you are interested in it, contact me.
 Copyright (c) 2026 Dentsas Panagiotis
 All Rights Reserved. This code may not be used, copied, modified, or distributed without explicit permission.
 
-![Project Structure Diagram](proccesdiagram.png)
-<img src="proccesdiagram.png" width="500">
+
+<img src="proccesdiagram.png" width="400">
